@@ -9,10 +9,3 @@
 .container__nova-cession>h1 {
   margin-left: 10px;
 }
-
-header {
-  margin-top: 15px;
-  margin-bottom: 15px;
-  display: flex;
-  justify-content: center;
-}
