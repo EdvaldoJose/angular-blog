@@ -20,7 +20,7 @@ export const dataFake = [
   {
     "id": "4",
     "title": "mais um novo filme",
-    "description": "Ola lancamento3 novidades!",
+    "description": "Ola lancamentos novidades!",
     "photoCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZJKY8OL8rk1NKI5hE2_GsGfg7J1pP7nsdin5orBvhbn_Jkss"
   }
 ]
